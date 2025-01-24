@@ -51,13 +51,13 @@ Here are some screenshots of the Movie Recommendation System in action:
 
 ### 1. **Homepage** 🏠
 
-![Homepage]("ResultsImages/HomePage.png")
+![Homepage](ResultsImages/HomePage.png)
 
 ### 2. **Movie Recommendation Results** 🎬
 
-![Recommendation Results 1]("ResultsImages/Resuts1.png")
+![Recommendation Results 1](ResultsImages/Resuts1.png)
 
-![Recommendation Results 2]("ResultsImages/Results2.png")
+![Recommendation Results 2](ResultsImages/Results2.png)
 
 ---
 
