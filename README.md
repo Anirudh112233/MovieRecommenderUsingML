@@ -51,13 +51,13 @@ Here are some screenshots of the Movie Recommendation System in action:
 
 ### 1. **Homepage** 🏠
 
-![Homepage]("C:\Users\aniru\OneDrive\Pictures\Screenshots\Screenshot 2025-01-24 171510.png")
+![Homepage]("ResultsImages/HomePage.png")
 
 ### 2. **Movie Recommendation Results** 🎬
 
-![Recommendation Results 1]("C:\Users\aniru\OneDrive\Pictures\Screenshots\Screenshot 2025-01-24 160946.png")
+![Recommendation Results 1]("ResultsImages/Resuts1.png")
 
-![Recommendation Results 2]("C:\Users\aniru\OneDrive\Pictures\Screenshots\Screenshot 2025-01-24 160709.png")
+![Recommendation Results 2]("ResultsImages/Results2.png")
 
 ---
 
