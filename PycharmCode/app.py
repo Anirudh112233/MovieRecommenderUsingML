@@ -42,7 +42,7 @@ def recommend(movie):
 st.title('Movie Recommendation System')
 st.markdown("<br>", unsafe_allow_html=True)
 
-with open('movie_dict.pkl', 'rb') as file:
+with open('E:\MovieRecSystemMLProject\PycharmCode\movie_dict.pkl', 'rb') as file:
     movies_dict = pickle.load(file)
 
 movies = pd.DataFrame(movies_dict)
